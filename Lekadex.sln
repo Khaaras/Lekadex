@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lekadex", "Lekadex.csproj", "{17AD6C82-C16E-4C68-8314-EF0215F86EB6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lekadex.Core", "..\Lekadex.Core\Lekadex.Core.csproj", "{2C9C5263-6B94-4F1E-9552-255E4F6D45FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lekadex.Database", "..\Lekadex.Database\Lekadex.Database.csproj", "{5E192C7E-9758-4AD7-AD35-8F3AD0B7705A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17AD6C82-C16E-4C68-8314-EF0215F86EB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17AD6C82-C16E-4C68-8314-EF0215F86EB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17AD6C82-C16E-4C68-8314-EF0215F86EB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17AD6C82-C16E-4C68-8314-EF0215F86EB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C9C5263-6B94-4F1E-9552-255E4F6D45FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C9C5263-6B94-4F1E-9552-255E4F6D45FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C9C5263-6B94-4F1E-9552-255E4F6D45FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C9C5263-6B94-4F1E-9552-255E4F6D45FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E192C7E-9758-4AD7-AD35-8F3AD0B7705A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E192C7E-9758-4AD7-AD35-8F3AD0B7705A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E192C7E-9758-4AD7-AD35-8F3AD0B7705A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E192C7E-9758-4AD7-AD35-8F3AD0B7705A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {729DC971-398D-4191-B732-71ADF2C776AB}
+	EndGlobalSection
+EndGlobal
